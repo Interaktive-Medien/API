@@ -16,10 +16,6 @@ http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130
 [Cocktails API](https://www.thecocktaildb.com/api.php)
 # FoodAPI
 [Food API](https://www.themealdb.com/api.php)
-# MovieAPI
-[Movie API](https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_API_KEY})
-# MusicAPI
-[Music API](https://developer.spotify.com/documentation/web-api/reference/search/search/)
 # WeatherAPI
 [Weather API](https://openweathermap.org/api)
 # YoutubeAPI
