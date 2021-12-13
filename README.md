@@ -23,3 +23,10 @@ Coole Free APIs
 
 ## Beispiel
 [https://placedog.net/1000?random](https://placedog.net/1000?random)
+
+
+# Star Wars Api
+[https://swapi.dev/](https://swapi.dev/)
+
+## Beispiel
+[https://swapi.dev/api/people](https://swapi.dev/api/people)
