@@ -1,5 +1,17 @@
-# API
-Eine Sammlung für APIs welche sehr gut in Webtechnologien oder Digezz verwendet werden können. Diese Liste wird laufend erweitert. Zusätzlich findet ihr in den Files noch Beispiele von Anwendungen, um das Prinzip von Fetch verstehen zu können.
+<h1 align="center">API</h1>
+
+<div align="center">Eine Sammlung für APIs welche sehr gut in Webtechnologien oder Digezz verwendet werden können. Diese Liste wird laufend erweitert. Zusätzlich findet ihr in den Files noch Beispiele von Anwendungen, um das Prinzip von Fetch verstehen zu können.</div>
+
+<div align="center">
+  <sub>Dies ist Version 0.1</sub>
+</div>
+<br>
+<div align="center">
+<img src="https://www.fhgr.ch/typo3conf/ext/sfptemplate/RootPage/Default/Resources/Public/Partials/Logo/Images/Logo.svg" width="30%">
+</div>
+
+-----
+
 
 ## CocktailAPI
 Eine API für [Cocktails](https://www.thecocktaildb.com/api.php). Diese API kann zum Beispiel zum Suchen von **Cocktails** verwendet werden. Auch können **Rezepte und Zutaten** gesucht werden.
