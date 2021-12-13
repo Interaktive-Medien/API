@@ -18,7 +18,13 @@ Eine API für die SBB. Diese API kann zum Beispiel zum Suchen von Zugfahrten ver
 [http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130](http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130)
 
 ## Opendata St.Gallen
+Eine API für die St.Gallen. Diese API kann zum Beispiel zum Suchen von Daten der Stadt St.Gallen verwendet werden.
 [https://daten.stadt.sg.ch/pages/home0/?flg=de](https://daten.stadt.sg.ch/pages/home0/?flg=de)
+
+### Beispiele
+[https://daten.stadt.sg.ch/explore/dataset/newsfeed-stadtpolizei-stgallen-medienmitteilungen/table/?sort=published](https://daten.stadt.sg.ch/explore/dataset/newsfeed-stadtpolizei-stgallen-medienmitteilungen/table/?sort=published)
+
+
 
 ## RandomDog
 
@@ -31,5 +37,5 @@ Eine API für die SBB. Diese API kann zum Beispiel zum Suchen von Zugfahrten ver
 ## Star Wars Api
 [https://swapi.dev/](https://swapi.dev/)
 
-## Beispiel
+### Beispiel
 [https://swapi.dev/api/people](https://swapi.dev/api/people)
