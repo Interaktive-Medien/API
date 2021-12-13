@@ -1,5 +1,5 @@
 # API
-Coole Free APIs
+Eine Sammlung für APIs welche sehr gut in Webtechnologien oder Digezz verwendet werden können. Diese Liste wird laufend erweitert. Zusätzlich findet ihr in den Files noch Beispiele von Anwendungen, um das Prinzip von Fetch verstehen zu können.
 
 # CocktailAPI
 [Cocktails](https://www.thecocktaildb.com/api.php)
