@@ -22,4 +22,4 @@ Coole Free APIs
 [https://placedog.net/](https://placedog.net/)
 
 ## Beispiel
-[https://placedog.net/1000?random][https://placedog.net/1000?random]
+[https://placedog.net/1000?random](https://placedog.net/1000?random)
