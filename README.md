@@ -12,12 +12,15 @@ Eine API für die SBB. Diese API kann zum Beispiel zum Suchen von Zugfahrten ver
 
 ### Beispiele
 Hier sieht man alle Bahnhöfe die Basel im Namen haben.
+
 [http://transport.opendata.ch/v1/locations?query=Basel](http://transport.opendata.ch/v1/locations?query=Basel)
 
 Hier sieht man die Verbindungen zwischen Lausanne und Genf.
+
 [http://transport.opendata.ch/v1/connections?from=Lausanne&to=Genève](http://transport.opendata.ch/v1/connections?from=Lausanne&to=Genève)
 
 Hier sieht man alle Haltestellen, welche am nächsten zu den Koordinaten liegt.
+
 [http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130](http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130)
 
 ## Opendata St.Gallen
