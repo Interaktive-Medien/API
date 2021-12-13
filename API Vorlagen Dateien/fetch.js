@@ -16,6 +16,6 @@ fetch(url)
         //"showSomething(data);"
 
         })
-        //Bei einem Fehler wird dieser gefagngen "catch" und eine Fehlermeldung in der Konsole ausgegeben.
+        //Bei einem Fehler wird dieser gefangen "catch" und eine Fehlermeldung in der Konsole ausgegeben.
     .catch(error => console.log(error))
 
