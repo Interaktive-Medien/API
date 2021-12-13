@@ -44,4 +44,6 @@ Eine API für die St.Gallen. Diese API kann zum Beispiel zum Suchen von Daten de
 [https://swapi.dev/](https://swapi.dev/)
 
 ### Beispiel
+Hier sieht man alle Charaktere, welchen in Star Wars vorkommen.
+
 [https://swapi.dev/api/people](https://swapi.dev/api/people)
