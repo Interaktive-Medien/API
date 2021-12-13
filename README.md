@@ -17,3 +17,9 @@ Coole Free APIs
 # Opendata St.Gallen
 [https://daten.stadt.sg.ch/pages/home0/?flg=de](https://daten.stadt.sg.ch/pages/home0/?flg=de)
 
+# RandomDog
+
+[https://placedog.net/](https://placedog.net/)
+
+## Beispiel
+[https://placedog.net/1000?random][https://placedog.net/1000?random]
