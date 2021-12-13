@@ -1,6 +1,6 @@
 # API
 Coole Free APIs
 # CocktailAPI
-[https://www.thecocktaildb.com/api.php](Cocktails API)
+(Cocktails API)[https://www.thecocktaildb.com/api.php]
 # FoodAPI
-[https://www.themealdb.com/api.php](Food API)
+(Food API)[https://www.themealdb.com/api.php]
