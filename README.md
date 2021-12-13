@@ -2,8 +2,8 @@
 Eine Sammlung für APIs welche sehr gut in Webtechnologien oder Digezz verwendet werden können. Diese Liste wird laufend erweitert. Zusätzlich findet ihr in den Files noch Beispiele von Anwendungen, um das Prinzip von Fetch verstehen zu können.
 
 # CocktailAPI
-Eine API für Cocktails. Diese API kann zum Beispiel zum Suchen von Cocktails verwendet werden. Auch können Rezepte und Zutaten gesucht werden.
-[Cocktails](https://www.thecocktaildb.com/api.php)
+Eine API für [Cocktails](https://www.thecocktaildb.com/api.php). Diese API kann zum Beispiel zum Suchen von Cocktails verwendet werden. Auch können Rezepte und Zutaten gesucht werden.
+
 
 # SBB Transport API
 Eine API für die SBB. Diese API kann zum Beispiel zum Suchen von Zugfahrten verwendet werden.
