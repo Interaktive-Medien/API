@@ -10,7 +10,7 @@ Eine API für die SBB. Diese API kann zum Beispiel zum Suchen von Zugfahrten ver
 
 [Link zur Dokumentation](http://transport.opendata.ch/docs.html)
 
-## Beispiele
+### Beispiele
 [http://transport.opendata.ch/v1/locations?query=Basel](http://transport.opendata.ch/v1/locations?query=Basel)
 
 [http://transport.opendata.ch/v1/connections?from=Lausanne&to=Genève](http://transport.opendata.ch/v1/connections?from=Lausanne&to=Genève)
