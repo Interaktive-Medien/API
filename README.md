@@ -59,3 +59,22 @@ Eine API für **Star Wars**. Diese API kann zum Beispiel zum Suchen von **Person
 Hier sieht man alle Charaktere, welchen in Star Wars vorkommen.
 
 [https://swapi.dev/api/people](https://swapi.dev/api/people)
+
+## Pokemon API
+Die ultimative API wenn es um **Pokmemon** geht. Hier findet man sämtliche Daten.
+
+[Link zur Dokumentation](https://pokeapi.co/)
+
+### Beispiele
+
+Die originalen **151 Pokemon**.
+
+[https://pokeapi.co/api/v2/pokemon?limit=151&offset=0](https://pokeapi.co/api/v2/pokemon?limit=151&offset=0)
+
+Alle Daten der ersten **Generation** der Spiele.
+
+[https://pokeapi.co/api/v2/generation/1/](https://pokeapi.co/api/v2/generation/1/)
+
+Alles über **Pikachu**.
+
+[https://pokeapi.co/api/v2/pokemon/pikachu/](https://pokeapi.co/api/v2/pokemon/pikachu/)
