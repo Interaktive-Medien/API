@@ -13,3 +13,6 @@ Coole Free APIs
 [http://transport.opendata.ch/v1/connections?from=Lausanne&to=Genève](http://transport.opendata.ch/v1/connections?from=Lausanne&to=Genève)
 
 [http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130](http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130)
+
+# Opendata St.Gallen
+[https://daten.stadt.sg.ch/pages/home0/?flg=de](https://daten.stadt.sg.ch/pages/home0/?flg=de)
