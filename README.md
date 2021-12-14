@@ -50,11 +50,12 @@ Hier werden sämtliche verfügbare **eScooter** der Stadt St.Gallen angezeigt.
 [https://daten.stadt.sg.ch/explore/dataset/verfugbare-freefloating-angebote-in-der-stadt-stgallen/table/?disjunctive.plz](https://daten.stadt.sg.ch/explore/dataset/verfugbare-freefloating-angebote-in-der-stadt-stgallen/table/?disjunctive.plz)
 
 ## AareGuru Gewässerdaten
+Mit der AareGuru APU werden Live-Daten zur **Aare**, wie beispielsweise Wassertemperatur oder Abflussrate abgerufen.
 
 [Link zur Dokumentation](https://aareguru.existenz.ch)
 
 ### Beispiel
-Hier werden Live-Daten zur **Aare**, wie beispielsweise Wassertemperatur oder Abflussrate abgerufen. In folgendem Beispiel für die Stadt Bern. 
+In folgendem Beispiel rufen wir die Daten für die Stadt Bern ab:
 
 [https://aareguru.existenz.ch/v2018/today?city=bern](https://aareguru.existenz.ch/v2018/today?city=bern)
 
