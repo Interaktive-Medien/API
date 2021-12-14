@@ -104,3 +104,4 @@ Die PLZ der Schweiz direkt von der Post.
 Velos und Fussgänger in der Stadt Basel.
 
 [https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger](https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger)
+
