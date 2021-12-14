@@ -49,7 +49,14 @@ Hier werden sämtliche verfügbare **eScooter** der Stadt St.Gallen angezeigt.
 
 [https://daten.stadt.sg.ch/explore/dataset/verfugbare-freefloating-angebote-in-der-stadt-stgallen/table/?disjunctive.plz](https://daten.stadt.sg.ch/explore/dataset/verfugbare-freefloating-angebote-in-der-stadt-stgallen/table/?disjunctive.plz)
 
+## AareGuru Gewässerdaten
 
+[Link zur Dokumentation](https://aareguru.existenz.ch)
+
+### Beispiel
+Hier werden Live-Daten zur **Aare**, wie beispielsweise Wassertemperatur oder Abflussrate abgerufen. In folgendem Beispiel für die Stadt Bern. 
+
+[https://aareguru.existenz.ch/v2018/today?city=bern](https://aareguru.existenz.ch/v2018/today?city=bern)
 
 ## RandomDog
 Eine API für Random Bildern von **Hunden**. Falls ihr ein Bild von einem Hund sehen wollt, könnt ihr diese API nutzen.
@@ -92,7 +99,7 @@ Alles über **Pikachu**.
 [https://pokeapi.co/api/v2/pokemon/pikachu/](https://pokeapi.co/api/v2/pokemon/pikachu/)
 
 ## Opendata Swiss
-Eine API für **offene Daten** der Schweiz. Hier findet man vielfältige Daten aus der ganzen Schweiz. 
+Eine API für **offene Daten** der Schweiz. Hier findet man vielfältige Daten aus der ganzen Schweiz.
 
 [Link zur Dokumentation](https://opendata.swiss/en/)
 
@@ -104,4 +111,3 @@ Die PLZ der Schweiz direkt von der Post.
 Velos und Fussgänger in der Stadt Basel.
 
 [https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger](https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger)
-
