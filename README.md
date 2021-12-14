@@ -90,3 +90,17 @@ Alle Daten der ersten **Generation** der Spiele.
 Alles über **Pikachu**.
 
 [https://pokeapi.co/api/v2/pokemon/pikachu/](https://pokeapi.co/api/v2/pokemon/pikachu/)
+
+## Opendata Swiss
+Eine API für **offene Daten** der Schweiz. Hier findet man vielfältige Daten aus der ganzen Schweiz. 
+
+[Link zur Dokumentation](https://opendata.swiss/en/)
+
+### Beispiele
+
+Die PLZ der Schweiz direkt von der Post.
+[https://opendata.swiss/en/dataset/plz_verzeichnis](https://opendata.swiss/en/dataset/plz_verzeichnis)
+
+Velos und Fussgänger in der Stadt Basel.
+
+[https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger](https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger)
