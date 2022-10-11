@@ -1,3 +1,6 @@
+// transport API Dokumentation:
+// http://transport.opendata.ch/docs.html
+
 console.log(' Hallo "SBB" ');
 
 // innerhtml example
