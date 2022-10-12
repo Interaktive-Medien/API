@@ -3,7 +3,6 @@ const starwarsDOM = document.querySelector("#starwars");
 if (localStorage.getItem('starWarsChars') === null) {
     console.log('starWarsChars is null');
     datenHolen();
-    zeigeDatenAn();
 } else {
     console.log('starWarsChars is not null');
     zeigeDatenAn();
@@ -43,6 +42,7 @@ fetch(url)
         //Mit "Console.log(data);" sieht man den Inhalt des Objekts.
         //console.log(data);
         localStorage.setItem('starWarsChars', JSON.stringify(data));
+        zeigeDatenAn();
         /*localStorage.setItem('myCat', 'Tom');
         let meineKatze = localStorage.getItem('myCat');
         console.log(meineKatze);
