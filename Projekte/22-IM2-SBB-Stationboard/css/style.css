@@ -1,0 +1,87 @@
+/* General styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #f2f2f2;
+}
+
+/* Header styles */
+.header {
+    background-color: #004b87;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.header__title {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.header__select {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Main styles */
+.main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table__header {
+    background-color: #004b87;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.table td,
+.table th {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.row:hover {
+    background-color: #e2e2e2;
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .header__select {
+        margin-top: 10px;
+    }
+
+    .table__header {
+        font-size: 14px;
+    }
+
+    .table td,
+    .table th {
+        font-size: 14px;
+    }
+}

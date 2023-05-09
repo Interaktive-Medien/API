@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>FHGR Abfahrszeiten Zürich - Bern - Chur</title>
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="header__title">Abfahrszeiten Züge</h1>
+        <select class="header__select" name="places" id="places">
+            <option value="none">Bitte wählen</option>
+            <option value="chur">Chur</option>
+            <option value="zürich">Zürich</option>
+            <option value="bern">Bern</option>
+        </select>
+    </header>
+    <main class="main">
+        <table class="table" id="stationboard">
+            <thead>
+                <tr>
+                    <th class="table__header">Zeit</th>
+                    <th class="table__header">Zugtyp</th>
+                    <th class="table__header">Ziel</th>
+                    <th class="table__header">Gleis</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </main>
+
+    <script src="js/control.js"></script>
+</body>
+
+</html>
