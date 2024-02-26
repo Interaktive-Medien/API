@@ -22,7 +22,7 @@ Eine API für die SBB. Diese API kann zum Beispiel zum Suchen von **Zugfahrten**
 
 [Link zur Dokumentation](http://transport.opendata.ch/docs.html)
 <details>
-<summary>### Beispiele</summary>
+<summary><strong>Beispiele</strong></summary>
 Hier sieht man alle Bahnhöfe die **Basel im Namen** haben.
 
 [http://transport.opendata.ch/v1/locations?query=Basel](http://transport.opendata.ch/v1/locations?query=Basel)
