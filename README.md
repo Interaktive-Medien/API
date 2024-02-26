@@ -138,7 +138,7 @@ Eine API, die Zugang zu Nachrichtenartikeln von verschiedenen Quellen weltweit b
 ## NASA API
 Bietet Zugang zu verschiedenen Daten, Bildern und Videos der NASA.
 
-[Link zur Dokumentation](https://api.nasa.gov/)pi.org/)
+[Link zur Dokumentation](https://api.nasa.gov/pi.org/)
 
 ## CoinGecko
 Eine API für Kryptowährungsdaten.
