@@ -35,6 +35,7 @@ Hier sieht man alle Haltestellen, welche am nächsten zu den **Koordinaten** lie
 
 [http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130](http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130)
 </details>
+
 ## Opendata St.Gallen
 Eine API für **offene Daten** der Stadt St.Gallen.
 
@@ -49,6 +50,7 @@ Hier werden sämtliche verfügbare **eScooter** der Stadt St.Gallen angezeigt.
 
 [https://daten.stadt.sg.ch/explore/dataset/verfugbare-freefloating-angebote-in-der-stadt-stgallen/table/?disjunctive.plz](https://daten.stadt.sg.ch/explore/dataset/verfugbare-freefloating-angebote-in-der-stadt-stgallen/table/?disjunctive.plz)
 </details>
+
 ## AareGuru Gewässerdaten
 Mit der AareGuru APU werden Live-Daten zur **Aare**, wie beispielsweise Wassertemperatur oder Abflussrate abgerufen.
 
@@ -60,6 +62,7 @@ In folgendem Beispiel rufen wir die Daten für die Stadt Bern ab:
 
 [https://aareguru.existenz.ch/v2018/today?city=bern](https://aareguru.existenz.ch/v2018/today?city=bern)
 </details>
+
 ## RandomDog
 Eine API für Random Bildern von **Hunden**. Falls ihr ein Bild von einem Hund sehen wollt, könnt ihr diese API nutzen.
 
@@ -81,6 +84,7 @@ Hier sieht man alle Charaktere, welchen in Star Wars vorkommen.
 
 [https://swapi.dev/api/people](https://swapi.dev/api/people)
 </details>
+
 ## Pokemon API
 Die ultimative API wenn es um **Pokmemon** geht. Hier findet man sämtliche Daten.
 
@@ -100,6 +104,7 @@ Alles über **Pikachu**.
 
 [https://pokeapi.co/api/v2/pokemon/pikachu/](https://pokeapi.co/api/v2/pokemon/pikachu/)
 </details>
+
 ## Opendata Swiss
 Eine API für **offene Daten** der Schweiz. Hier findet man vielfältige Daten aus der ganzen Schweiz.
 
