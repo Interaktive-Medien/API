@@ -133,7 +133,7 @@ Eine API für Wetterdaten weltweit.
 ## NewsAPI
 Eine API, die Zugang zu Nachrichtenartikeln von verschiedenen Quellen weltweit bietet.
 
-[Link zur Dokumentation](https://newsa
+[Link zur Dokumentation](https://newsapi.org/docs)
 
 ## NASA API
 Bietet Zugang zu verschiedenen Daten, Bildern und Videos der NASA.
@@ -185,3 +185,4 @@ Eine API für Daten zu Raumfahrtmissionen.
 
 [Link zur Dokumentation](http://open-notify.org/Open-Notify-API/)
 
+## Open Weather Map
