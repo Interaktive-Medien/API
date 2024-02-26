@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://www.fhgr.ch/typo3conf/ext/sfptemplate/RootPage/Default/Resources/Public/Partials/Logo/Images/Logo.svg" width="30%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fachhochschule_Graub%C3%BCnden_Logo.svg/1200px-Fachhochschule_Graub%C3%BCnden_Logo.svg.png" width="30%">
 </div>
 
 -----
@@ -112,3 +112,7 @@ Die PLZ der Schweiz direkt von der Post.
 Velos und Fussgänger in der Stadt Basel.
 
 [https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger](https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger)
+
+
+
+## Weitere APIs
