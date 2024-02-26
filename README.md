@@ -121,4 +121,67 @@ Velos und Fussgänger in der Stadt Basel.
 
 
 </details>
+
 ## Weitere APIs
+
+## Open Weather Map
+Eine API für Wetterdaten weltweit.
+
+[Link zur Dokumentation](https://openweathermap.org/api)
+
+
+## NewsAPI
+Eine API, die Zugang zu Nachrichtenartikeln von verschiedenen Quellen weltweit bietet.
+
+[Link zur Dokumentation](https://newsa
+
+## NASA API
+Bietet Zugang zu verschiedenen Daten, Bildern und Videos der NASA.
+
+[Link zur Dokumentation](https://api.nasa.gov/)pi.org/)
+
+## CoinGecko
+Eine API für Kryptowährungsdaten.
+
+[Link zur Dokumentation](https://www.coingecko.com/de/api)
+
+## Exchange Rates API
+Eine API für den Zugriff auf aktuelle und historische Wechselkurse.
+
+[Link zur Dokumentation](https://exchangeratesapi.io/)
+
+## The Movie Database
+Eine API für Filmdaten.
+
+[Link zur Dokumentation](https://www.themoviedb.org/documentation/api)
+
+## Open Food Facts
+Eine API für Nahrungsmittelinformationen.
+
+[Link zur Dokumentation](https://world.openfoodfacts.org/data)
+
+## Open Brewery DB
+Eine API für Brauereidaten.
+
+[Link zur Dokumentation](https://www.openbrewerydb.org/)
+
+## Open Trivia Database
+Eine API für Trivia-Daten.
+
+[Link zur Dokumentation](https://opentdb.com/api_config.php)
+
+## Open AQ
+Eine API für Luftqualitätsdaten.
+
+[Link zur Dokumentation](https://docs.openaq.org/)
+
+## Open Library
+Eine API für Buchdaten.
+
+[Link zur Dokumentation](https://openlibrary.org/developers/api)
+
+## Open Notify
+Eine API für Daten zu Raumfahrtmissionen.
+
+[Link zur Dokumentation](http://open-notify.org/Open-Notify-API/)
+
