@@ -19,3 +19,22 @@ fetch(url)
         //Bei einem Fehler wird dieser gefangen "catch" und eine Fehlermeldung in der Konsole ausgegeben.
     .catch(error => console.log(error))
 
+
+
+// Best Practice:
+// - Fetch in eine Funktion packen
+// - Fetch asynchron ausführen
+
+// async function fetchData(url) {
+//     try {
+//         let response = await fetch(url);
+//         let data = await response.json();
+//         console.log(data);
+//     }
+//     catch (error) {
+//         console.log(error);
+//     }
+// }
+
+// fetchData(url);
+
