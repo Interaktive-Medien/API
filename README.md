@@ -39,8 +39,8 @@ Hier sieht man alle Haltestellen, welche am nächsten zu den **Koordinaten** lie
 Eine API für **offene Daten** der Stadt St.Gallen.
 
 [Link zur Dokumentation](https://daten.stadt.sg.ch/pages/home0/?flg=de)
-
-### Beispiele
+<details>
+<summary><strong>Beispiele</strong></summary>
 Hier werden sämtliche **Medienmitteilungen** der Stadtpolizei St.Gallen angezeigt.
 
 [https://daten.stadt.sg.ch/explore/dataset/newsfeed-stadtpolizei-stgallen-medienmitteilungen/table/?sort=published](https://daten.stadt.sg.ch/explore/dataset/newsfeed-stadtpolizei-stgallen-medienmitteilungen/table/?sort=published)
@@ -48,44 +48,45 @@ Hier werden sämtliche **Medienmitteilungen** der Stadtpolizei St.Gallen angezei
 Hier werden sämtliche verfügbare **eScooter** der Stadt St.Gallen angezeigt.
 
 [https://daten.stadt.sg.ch/explore/dataset/verfugbare-freefloating-angebote-in-der-stadt-stgallen/table/?disjunctive.plz](https://daten.stadt.sg.ch/explore/dataset/verfugbare-freefloating-angebote-in-der-stadt-stgallen/table/?disjunctive.plz)
-
+</details>
 ## AareGuru Gewässerdaten
 Mit der AareGuru APU werden Live-Daten zur **Aare**, wie beispielsweise Wassertemperatur oder Abflussrate abgerufen.
 
 [Link zur Dokumentation](https://aareguru.existenz.ch)
 
-### Beispiel
+<details>
+<summary><strong>Beispiele</strong></summary>
 In folgendem Beispiel rufen wir die Daten für die Stadt Bern ab:
 
 [https://aareguru.existenz.ch/v2018/today?city=bern](https://aareguru.existenz.ch/v2018/today?city=bern)
-
+</details>
 ## RandomDog
 Eine API für Random Bildern von **Hunden**. Falls ihr ein Bild von einem Hund sehen wollt, könnt ihr diese API nutzen.
 
 [Link zur Dokumentation](https://placedog.net/)
-
-## Beispiel
+<details>
+<summary><strong>Beispiele</strong></summary>
 Aus 1000 Hundebildern wird eines zufällig angezeigt.
 
 [https://placedog.net/1000?random](https://placedog.net/1000?random)
-
+</details>
 
 ## Star Wars Api
 Eine API für **Star Wars**. Diese API kann zum Beispiel zum Suchen von **Personen**, **Fahrzeugen** und vieles mehr verwendet werden.
 
 [Link zur Dokumentation](https://swapi.dev/)
-
-### Beispiel
+<details>
+<summary><strong>Beispiele</strong></summary>
 Hier sieht man alle Charaktere, welchen in Star Wars vorkommen.
 
 [https://swapi.dev/api/people](https://swapi.dev/api/people)
-
+</details>
 ## Pokemon API
 Die ultimative API wenn es um **Pokmemon** geht. Hier findet man sämtliche Daten.
 
 [Link zur Dokumentation](https://pokeapi.co/)
-
-### Beispiele
+<details>
+<summary><strong>Beispiele</strong></summary>
 
 Die originalen **151 Pokemon**.
 
@@ -98,13 +99,13 @@ Alle Daten der ersten **Generation** der Spiele.
 Alles über **Pikachu**.
 
 [https://pokeapi.co/api/v2/pokemon/pikachu/](https://pokeapi.co/api/v2/pokemon/pikachu/)
-
+</details>
 ## Opendata Swiss
 Eine API für **offene Daten** der Schweiz. Hier findet man vielfältige Daten aus der ganzen Schweiz.
 
 [Link zur Dokumentation](https://opendata.swiss/en/)
-
-### Beispiele
+<details>
+<summary><strong>Beispiele</strong></summary>
 
 Die PLZ der Schweiz direkt von der Post.
 [https://opendata.swiss/en/dataset/plz_verzeichnis](https://opendata.swiss/en/dataset/plz_verzeichnis)
@@ -114,5 +115,5 @@ Velos und Fussgänger in der Stadt Basel.
 [https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger](https://opendata.swiss/en/dataset/verkehrszahldaten-velos-und-fussganger)
 
 
-
+</details>
 ## Weitere APIs
