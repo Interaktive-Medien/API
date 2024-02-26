@@ -21,8 +21,8 @@ Eine API für [Cocktails](https://www.thecocktaildb.com/api.php). Diese API kann
 Eine API für die SBB. Diese API kann zum Beispiel zum Suchen von **Zugfahrten** verwendet werden.
 
 [Link zur Dokumentation](http://transport.opendata.ch/docs.html)
-
-### Beispiele
+<details>
+<summary>### Beispiele</summary>
 Hier sieht man alle Bahnhöfe die **Basel im Namen** haben.
 
 [http://transport.opendata.ch/v1/locations?query=Basel](http://transport.opendata.ch/v1/locations?query=Basel)
@@ -34,7 +34,7 @@ Hier sieht man die Verbindungen zwischen **Lausanne und Genf**.
 Hier sieht man alle Haltestellen, welche am nächsten zu den **Koordinaten** liegt.
 
 [http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130](http://transport.opendata.ch/v1/locations?x=47.476001&y=8.306130)
-
+</details>
 ## Opendata St.Gallen
 Eine API für **offene Daten** der Stadt St.Gallen.
 
