@@ -123,7 +123,9 @@ Velos und Fussgänger in der Stadt Basel.
 </details>
 
 ## Weitere APIs
+
 <details>
+
 ### Open Weather Map
 Eine API für Wetterdaten weltweit.
 
