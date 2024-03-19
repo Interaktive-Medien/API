@@ -123,7 +123,7 @@ Velos und Fussgänger in der Stadt Basel.
 </details>
 
 ## Weitere APIs
-
+<details>
 ### Open Weather Map
 Eine API für Wetterdaten weltweit.
 
@@ -184,3 +184,28 @@ Eine API für Buchdaten.
 Eine API für Daten zu Raumfahrtmissionen.
 
 [Link zur Dokumentation](http://open-notify.org/Open-Notify-API/)
+
+
+### Deck of Cards
+Eine API für Kartenspiele.
+
+[Link zur Dokumentation](https://deckofcardsapi.com/)
+
+### Bored API
+Eine API für Aktivitätsvorschläge.
+
+[Link zur Dokumentation](https://www.boredapi.com/)
+
+### Agify API
+Eine API für das Schätzen des Alters anhand des Namens.
+
+[Link zur Dokumentation](https://agify.io/)
+
+### SpaceX API
+Eine API für Daten zu SpaceX.
+
+[Link zur Dokumentation](https://github.com/r-spacex/SpaceX-API)
+
+
+
+</details>
