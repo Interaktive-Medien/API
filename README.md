@@ -208,6 +208,70 @@ Eine API für Daten zu SpaceX.
 
 [Link zur Dokumentation](https://github.com/r-spacex/SpaceX-API)
 
+### Art Institute of Chicago API
+Eine API für Kunstwerke.
 
+[Link zur Dokumentation](https://api.artic.edu/docs/#quick-start)
+
+### EmojiHub
+Eine API für Emojis.
+
+[Link zur Dokumentation](https://github.com/cheatsnake/emojihub)
+
+### Gutendex
+Eine API für Bücher.
+
+[Link zur Dokumentation](https://gutendex.com/)
+
+### Fruityvice
+Eine API für Früchte.
+
+[Link zur Dokumentation](https://www.fruityvice.com/)
+
+### Disney API
+Eine API für Disney-Daten.
+
+[Link zur Dokumentation](https://disneyapi.dev/docs/)
+
+### Magic The Gathering API
+Eine API für Magic The Gathering Karten.
+
+[Link zur Dokumentation](https://docs.magicthegathering.io/)
+
+### RAWG Video Games Database API
+Eine API für Videospiele.
+
+[Link zur Dokumentation](https://rawg.io/apidocs/)
+
+### PlaceKeanu
+Eine API für Bilder von Keanu Reeves.
+
+[Link zur Dokumentation](https://placekeanu.com/)
+
+### Picsum Photos
+Eine API für zufällige Bilder.
+
+[Link zur Dokumentation](https://picsum.photos/)
+
+### Sunrise and Sunset Times API
+Eine API für Sonnenaufgangs- und Sonnenuntergangszeiten.
+
+[Link zur Dokumentation](https://sunrise-sunset.org/api)
+
+### Rick and Morty API
+Eine API für Rick and Morty Daten.
+
+[Link zur Dokumentation](https://rickandmortyapi.com/documentation/)
+
+
+### Cat Facts API 
+Eine API für Katzenfakten.
+
+[Link zur Dokumentation](https://alexwohlbruck.github.io/cat-facts/) 
+
+### Rest Countries API
+Eine API für Länderdaten.
+
+[Link zur Dokumentation](https://restcountries.com/)
 
 </details>
