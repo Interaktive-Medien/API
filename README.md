@@ -157,6 +157,15 @@ Eine API für Filmdaten.
 
 [Link zur Dokumentation](https://www.themoviedb.org/documentation/api)
 
+- API benötigt API Key, der gratis erstellt werden kann!
+- Dafür müsst ihr euch bei TheMovieDB registrieren und eine Anwendung erstellen.
+
+#### Beispiel-Query
+
+Nach Movie mit Begriff 'kung' suchen:
+
+`https://api.themoviedb.org/3/search/movie?api_key=YOUR_API_KEY&query=Kung`
+
 ### Open Food Facts
 Eine API für Nahrungsmittelinformationen.
 
